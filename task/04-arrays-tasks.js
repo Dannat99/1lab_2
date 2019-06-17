@@ -28,7 +28,7 @@ function findElement(arr, value) {
 /**
  * Generates an array of odd numbers of the specified length
  *
- * @param {number} len
+ * @param {number} len 
  * @return {array}
  *
  * @example
