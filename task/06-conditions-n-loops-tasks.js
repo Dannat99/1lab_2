@@ -468,6 +468,7 @@ function getMatrixProduct(m1, m2) {
       result[i].push(sum);
     }
   }
+  
   return result;
 }
 
